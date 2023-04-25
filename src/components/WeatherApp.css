@@ -7,6 +7,31 @@
   margin-top: 50px;
 }
 
+div {
+  text-align: center;
+}
+
+button {
+  border-radius: 10%;
+  position: relative;
+  border: 100px;
+  box-shadow: 1px 1px 5px 1px;
+  background: #ff2caa;
+}
+
+.pdf {
+  height: 50px; 
+  
+}
+
+
+
+button:hover {
+  background: #f91fa2;
+  color: #eee;
+  box-shadow: inset;
+}
+
 form {
   display: flex;
   justify-content: center;
